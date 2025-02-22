@@ -41,11 +41,11 @@ python har_modeling.py
 ## 📊 Model Performance Comparison
 | Model              | Accuracy |
 |-------------------|----------|
-| LSTM              | XX%      |
-| CNN               | XX%      |
-| Random Forest     | XX%      |
-| SVM               | XX%      |
-| Logistic Regression | XX%      |
+| LSTM              | 80%      |
+| CNN               | 96%      |
+| Random Forest     | 84%      |
+| SVM               | 42%      |
+| Logistic Regression | 73%      |
 
 ## 🖼️ Visualizations
 - **Training vs. Validation Accuracy** (LSTM & CNN)
